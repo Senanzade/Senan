@@ -6,6 +6,7 @@ echo "I am a PHP developer<br>";
 $ad = "Senan";
 $yas = 19;
 
-echo "Telebe: " $ad "<br>Yasi: "  $yas;
+echo "Telebe:  $ad<br>";
+echo "Yasi: $yas";
 
 ?> 
