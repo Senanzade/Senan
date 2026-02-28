@@ -1,5 +1,6 @@
 <?php
 
-echo "Hi Guys"
+echo "Hi Guys";
+echo "Random php file";
 
 ?>
