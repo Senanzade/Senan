@@ -1,4 +1,4 @@
-<?php //Experment code 
+<?php
 
 echo "Hello World<br>";
 echo "I am a PHP developer<br>";
