@@ -9,4 +9,4 @@ $yas = 19;
 echo "Telebe:  $ad<br>";
 echo "Yasi: $yas";
 
-?> 
+?>
